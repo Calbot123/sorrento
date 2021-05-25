@@ -1,0 +1,36 @@
+.Contract {
+    max-width: 1024px;
+    margin: 1em auto;
+}
+
+#contact-form {
+    display: flex;
+    flex-direction: column;
+    background-color: pink;
+}
+
+#contact-form label {
+    font-weight: bold;
+    margin-top: 1em;
+}
+
+#contact-form input {
+    padding: 0.5em;
+    box-sizing: border-box;
+}
+
+#contact-form textarea {
+    padding: 0.5em;
+    box-sizing: border-box;
+}
+
+#contact-form button{
+    align-self: center;
+    margin-top: 1em;
+    width: 125px;
+    background-color: black;
+    color: white;
+    padding: 0.5em;
+    border: 1px, solid black;
+    border-radius: 10px;
+}
