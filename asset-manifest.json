@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sorrento/static/css/main.5aa6240d.chunk.css",
+    "main.js": "/sorrento/static/js/main.e06116a8.chunk.js",
+    "main.js.map": "/sorrento/static/js/main.e06116a8.chunk.js.map",
+    "runtime-main.js": "/sorrento/static/js/runtime-main.5a940ca6.js",
+    "runtime-main.js.map": "/sorrento/static/js/runtime-main.5a940ca6.js.map",
+    "static/js/2.0acaddce.chunk.js": "/sorrento/static/js/2.0acaddce.chunk.js",
+    "static/js/2.0acaddce.chunk.js.map": "/sorrento/static/js/2.0acaddce.chunk.js.map",
+    "static/js/3.9e6ed69a.chunk.js": "/sorrento/static/js/3.9e6ed69a.chunk.js",
+    "static/js/3.9e6ed69a.chunk.js.map": "/sorrento/static/js/3.9e6ed69a.chunk.js.map",
+    "index.html": "/sorrento/index.html",
+    "static/css/main.5aa6240d.chunk.css.map": "/sorrento/static/css/main.5aa6240d.chunk.css.map",
+    "static/js/2.0acaddce.chunk.js.LICENSE.txt": "/sorrento/static/js/2.0acaddce.chunk.js.LICENSE.txt",
+    "static/media/apartment-banner-image.87672fb4.jpg": "/sorrento/static/media/apartment-banner-image.87672fb4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a940ca6.js",
+    "static/js/2.0acaddce.chunk.js",
+    "static/css/main.5aa6240d.chunk.css",
+    "static/js/main.e06116a8.chunk.js"
+  ]
+}
